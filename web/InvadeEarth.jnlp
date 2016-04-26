@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+"
+  codebase="http://invadeearth.sourceforge.net/"
+  href="InvadeEarth.jnlp">
+  <information>
+    <title>Invade Earth</title>
+    <vendor>Jonathan Crosmer</vendor>
+    <description>Invade Earth</description>
+    <description kind="short">An implementation of Risk 2210 A.D., supporting play on a single computer or across a network.</description>
+    <icon href="earthIcon.gif"/>
+    <shortcut>
+      <desktop/>
+    </shortcut>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.5+"/>
+    <jar href="InvadeEarth.jar"/>
+    <jar href="InvadeEarthResources.jar"/>
+    <jar href="jdom.jar"/>
+    <jar href="log4j-1.2.8.jar"/>
+    <jar href="dualrpc-common-2.0.2.jar"/>
+    <jar href="dualrpc-server-2.0.2.jar"/>
+    <jar href="dualrpc-client-2.0.2.jar"/>
+    <jar href="commons-codec-1.3.jar"/>
+    <jar href="swing-layout-1.0.jar"/>
+    <jar href="jogg-0.0.7.jar"/>
+    <jar href="tritonus_share.jar"/>
+    <jar href="jorbis-0.0.15.jar"/>
+    <jar href="vorbisspi1.0.2.jar"/>
+  </resources>
+  <security>
+    <all-permissions/>
+  </security>
+  <application-desc main-class="org.invade.InvadeEarth"/>
+</jnlp>
