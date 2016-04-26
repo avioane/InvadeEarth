@@ -32,7 +32,9 @@ Links
 * Jonathan's page http://jonathancrosmer.com/software/invadeearth/
 * Google group - https://groups.google.com/forum/#!forum/smileyproductions
 * FB group (more active, hosting games) - https://www.facebook.com/groups/428943173786372
-
+* Old forum http://smileygames.net/forum/7.html
+* http://games.softpedia.com/get/Freeware-Games/Invade-Earth.shtml
+* 
 Coding
 * http://docs.oracle.com/javase/tutorial/deployment/deploymentInDepth/jnlp.html
 * http://www.dreamincode.net/forums/topic/335212-problem-with-setting-up-a-project-in-netbeans/
