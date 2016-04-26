@@ -28,11 +28,11 @@ Solution: Add http://invadeearth.sourceforge.net as a security exception to Java
 
 Links
 * Old hosting location http://smileygames.net/invadeearth.1.html
+* Lots of info about how the game works - http://smileygames.net/invadeearth/manual.html
 * Jonathan's page http://jonathancrosmer.com/software/invadeearth/
 * Google group - https://groups.google.com/forum/#!forum/smileyproductions
 * FB group (more active, hosting games) - https://www.facebook.com/groups/428943173786372
 
 Coding
-http://docs.oracle.com/javase/tutorial/deployment/deploymentInDepth/jnlp.html
-
-http://www.dreamincode.net/forums/topic/335212-problem-with-setting-up-a-project-in-netbeans/
+* http://docs.oracle.com/javase/tutorial/deployment/deploymentInDepth/jnlp.html
+* http://www.dreamincode.net/forums/topic/335212-problem-with-setting-up-a-project-in-netbeans/
