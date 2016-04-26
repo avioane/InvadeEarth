@@ -12,7 +12,12 @@ To compile:
 
 Solution:
 - Point to your JDK (1.8 or whatever)
-- INDIVIDUALLY - add the libraries are located under ..\InvadeEarth\web\ (select all the libraries in this folder, don't add the folder)
+- Right-click Libraries, click "addJAR/Folder" and select ALL .jar files located under ..\InvadeEarth\web\ (select all the libraries in this folder, don't add the folder)
+- NOTE: I added separately:
+-   commons-codec-1.3.jar (not sure if it had any effect)
+-   dualrpc-common-2.0.2.jar (solved some of the errors)
+-   InvadeEarthResources.jar (not sure if it had any effect)
+-   Removed dualrpcserver.jar, dualrpcclient.jar and added dualrpc-client-2.0.2.jar, dualrpc-server-2.0.2.jar (solved the rest of the errors)
 - Clean & Build
 
 5. I got this error in InvadeEarth.java:
@@ -34,7 +39,7 @@ Links
 * FB group (more active, hosting games) - https://www.facebook.com/groups/428943173786372
 * Old forum http://smileygames.net/forum/7.html
 * http://games.softpedia.com/get/Freeware-Games/Invade-Earth.shtml
-* 
+
 Coding
 * http://docs.oracle.com/javase/tutorial/deployment/deploymentInDepth/jnlp.html
 * http://www.dreamincode.net/forums/topic/335212-problem-with-setting-up-a-project-in-netbeans/
