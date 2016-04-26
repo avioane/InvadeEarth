@@ -12,7 +12,7 @@ To compile:
 
 Solution:
 - Point to your JDK (1.8 or whatever)
-- Add the libraries are located under ..\InvadeEarth\web\
+- INDIVIDUALLY - add the libraries are located under ..\InvadeEarth\web\ (select all the libraries in this folder, don't add the folder)
 - Clean & Build
 
 5. I got this error in InvadeEarth.java:
