@@ -19,6 +19,20 @@ Solution:
 
 error: cannot find symbol import com.retrogui.dualrpc.common.CallException;
 
+Solution: I believe it is missing dualrpc-common-2.0.2.jar
 
-- If JNLP not working
-Follow instructions from http://java.com/en/download/help/jcp_security.xml to add http://invadeearth.sourceforge.net as a security exception
+6. If JNLP throws "your security settings have blocked an application signed with an expired or not-yet-active certificate from running"
+Solution: Add http://invadeearth.sourceforge.net as a security exception to Java Control Panel (Follow instructions from http://java.com/en/download/help/jcp_security.xml)
+
+
+
+Links
+* Old hosting location http://smileygames.net/invadeearth.1.html
+* Jonathan's page http://jonathancrosmer.com/software/invadeearth/
+* Google group - https://groups.google.com/forum/#!forum/smileyproductions
+* FB group (more active, hosting games) - https://www.facebook.com/groups/428943173786372
+
+Coding
+http://docs.oracle.com/javase/tutorial/deployment/deploymentInDepth/jnlp.html
+
+http://www.dreamincode.net/forums/topic/335212-problem-with-setting-up-a-project-in-netbeans/
