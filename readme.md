@@ -1,3 +1,6 @@
+-- If InvadeEarth.jnlp says "Your security settings have blocked an application signed with an expired or not-yet-active certificate from running"
+Solution: Add http://invadeearth.sourceforge.net and http://jonathancrosmer.com as a security exception to Java Control Panel (Follow instructions from http://java.com/en/download/help/jcp_security.xml)
+
 To compile:
 
 1. Download and install NetBeans (I tried before in Eclipse; didn't work)
@@ -26,8 +29,7 @@ error: cannot find symbol import com.retrogui.dualrpc.common.CallException;
 
 Solution: I believe it is missing dualrpc-common-2.0.2.jar
 
-6. If JNLP throws "your security settings have blocked an application signed with an expired or not-yet-active certificate from running"
-Solution: Add http://invadeearth.sourceforge.net as a security exception to Java Control Panel (Follow instructions from http://java.com/en/download/help/jcp_security.xml)
+
 
 
 
